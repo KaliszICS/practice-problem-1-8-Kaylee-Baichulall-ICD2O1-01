@@ -28,7 +28,7 @@ def q5():
   userInt = int(userInt)
   num = userInt % 2
   bool1 = num == 0
-  print(f"The integer {userInt} is {bool1}")
+  print(f"The integer {userInt} is {bool1}.")
 
 #Do not edit code after this
 #Comment out the followwing code when running tests
