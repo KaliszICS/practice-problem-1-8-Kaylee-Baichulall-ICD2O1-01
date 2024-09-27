@@ -13,7 +13,7 @@ def q2():
 
 def q3():
   userInt = input("Enter a number: ")
-  userInt = int(userInt)
+  userInt = float(userInt)
   bool1 = userInt >= 0 and userInt <= 10
   print(bool1)
 
@@ -33,10 +33,8 @@ def q5():
 #Do not edit code after this
 #Comment out the followwing code when running tests
 
-'''
 q1()
 q2()
 q3()
 q4()
 q5()
-'''
