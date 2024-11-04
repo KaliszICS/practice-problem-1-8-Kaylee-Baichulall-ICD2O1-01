@@ -1,3 +1,9 @@
+'''
+Lesson: Boolean Logic
+Author: Kaylee Baichulall
+Date Created: Sept 26 2024
+Date Last Edited: Sept 26 2024
+'''
 
 def q1():
   bool1 = True
@@ -32,9 +38,10 @@ def q5():
 
 #Do not edit code after this
 #Comment out the followwing code when running tests
-
+'''
 q1()
 q2()
 q3()
 q4()
 q5()
+'''
